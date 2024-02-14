@@ -1,0 +1,23 @@
+@import url(_mediaqueri.scss);
+@import url(_Keyfrems.scss);
+@import url(_icon.scss);
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.home {
+  width: 100%;
+  height: 100vh;
+  background-image: url(./Winter16.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
