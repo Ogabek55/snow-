@@ -76,3 +76,21 @@
     top: 700px;
   }
 }
+
+
+@keyframes person {
+  from {
+    left: 0%;
+    display: none;
+  }
+  1% {
+    display: block;
+  }
+  90% {
+    left: 90%;
+  }
+  to {
+    width: 90%;
+    display: none;
+  }
+}
